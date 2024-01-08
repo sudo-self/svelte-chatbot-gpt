@@ -5,12 +5,12 @@
   "scope": "./",
   "icons": [
     {
-      "src": https://vercel-ai-chat-sveltekit-openai-phi-three.vercel.app",
+      "src": "https://github.com/sudo-self/vercel-ai-chat-sveltekit-openai/assets/119916323/b153aabf-c52d-4e02-9aff-1ef3bbfb4de1",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "1.png",
+      "src": "https://github.com/sudo-self/vercel-ai-chat-sveltekit-openai/assets/119916323/b153aabf-c52d-4e02-9aff-1ef3bbfb4de1",
       "sizes": "512x512",
       "type": "image/png"
     }
