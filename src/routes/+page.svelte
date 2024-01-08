@@ -6,11 +6,11 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="Svelte ai chat" />
 </svelte:head>
 
 <section>
-	<h1>useChat</h1>
+	<h1>(-(-_(-_-)_-)-)</h1>
 	<ul>
 		{#each $messages as message}
 			<li>{message.role}: {message.content}</li>
@@ -18,7 +18,7 @@
 	</ul>
 	<form on:submit={handleSubmit}>
 		<input bind:value={$input} />
-		<button type="submit">Send</button>
+		<button type="submit">SEND</button>
 	</form>
 </section>
 
